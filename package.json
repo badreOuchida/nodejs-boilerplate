@@ -1,0 +1,13 @@
+{
+  "name": "biblio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "npm run server --prefix server",
+    "watch": "npm run watch --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
